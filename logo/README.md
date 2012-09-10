@@ -1,6 +1,6 @@
 # 这里存放的是广州Linux用户组的Logo
 
-Logo的原设计者是Gary li：
+Logo的原设计者是Gary li： 
 ![原作品](https://raw.github.com/gzlug/artwork/master/logo/source.jpg)
 
 详情请参：[广州Linux用户组 wiki相关记录](http://wiki.gzlug.org/gzlug_logo_plan)
